@@ -1,4 +1,4 @@
-# Hate Speech Classification Project for Burmese Text
+# Hate Speech Classification for Burmese Text using Logistic Regression
 
 # Introductio
 This is political burmese text classification project using Logistic Regression. The main source of collecting data is from social media and store them as .csv format along with over 150,000 rows. 
